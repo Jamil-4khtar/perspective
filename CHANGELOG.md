@@ -1,3 +1,27 @@
+# [v2.7.2](https://github.com/finos/perspective/releases/tag/v2.7.2)
+
+_10 January 2024_ ([Full changelog](https://github.com/finos/perspective/compare/v2.7.1...v2.7.2))
+
+Features
+
+- Add column edit highlight to `perspective-viewer-datagrid` [#2486](https://github.com/finos/perspective/pull/2486)
+
+Fixes
+
+- Fix output scrolling in Jupyter when `perspective-python` is installed [#2495](https://github.com/finos/perspective/pull/2495)
+- Fix datagrid cell pulse styling [#2489](https://github.com/finos/perspective/pull/2489)
+- Update ipynb examples with new expression syntax [#2463](https://github.com/finos/perspective/pull/2463)
+- Fix Jupyterlab Widget Save/Restore Symmetry [#2465](https://github.com/finos/perspective/pull/2465)
+
+Misc
+
+- Use a boost mirror [#2484](https://github.com/finos/perspective/pull/2484)
+- Refactor How Column Style Components Are Selected [#2443](https://github.com/finos/perspective/pull/2443)
+- Remove docs build from CI [#2483](https://github.com/finos/perspective/pull/2483)
+- Add starting support for Typescript in perspective-viewer-d3fc package [#2432](https://github.com/finos/perspective/pull/2432)
+- Fix cargo features [#2481](https://github.com/finos/perspective/pull/2481)
+- Fix docs site [#2462](https://github.com/finos/perspective/pull/2462)
+
 # [v2.7.1](https://github.com/finos/perspective/releases/tag/v2.7.1)
 
 _29 November 2023_ ([Full changelog](https://github.com/finos/perspective/compare/v2.7.0...v2.7.1))
